@@ -1,5 +1,6 @@
 import datetime
 import time
+import sklearn
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
 from sklearn.preprocessing import PolynomialFeatures
